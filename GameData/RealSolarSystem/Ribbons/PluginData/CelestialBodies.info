@@ -3,7 +3,7 @@ Mercury
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Mercury
 		base prestige = 1000
 	}
@@ -14,7 +14,7 @@ Venus
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Venus
 		base prestige = 2000
 	}
@@ -25,7 +25,7 @@ Earth
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Earth
 		base prestige = 3000
 	}
@@ -35,7 +35,7 @@ Moon
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Moon
 		base prestige = 3100
 	}
@@ -46,7 +46,7 @@ Mars
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Mars
 		base prestige = 4000
 	}
@@ -56,7 +56,7 @@ Phobos
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Phobos
 		base prestige = 4100
 	}
@@ -66,7 +66,7 @@ Deimos
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Deimos
 		base prestige = 4200
 	}
@@ -77,7 +77,7 @@ Ceres
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Ceres
 		base prestige = 4300
 	}
@@ -87,7 +87,7 @@ Vesta
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Vesta
 		base prestige = 4400
 	}
@@ -98,7 +98,7 @@ Jupiter
 	gas giant = true
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Jupiter
 		base prestige = 5000
 	}
@@ -108,7 +108,7 @@ Io
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Io
 		base prestige = 5100
 	}
@@ -118,7 +118,7 @@ Europa
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Europa
 		base prestige = 5200
 	}
@@ -128,7 +128,7 @@ Ganymede
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Ganymede
 		base prestige = 5300
 	}
@@ -138,7 +138,7 @@ Callisto
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Callisto
 		base prestige = 5400
 	}
@@ -149,7 +149,7 @@ Saturn
 	gas giant = true
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Saturn
 		base prestige = 6000
 	}
@@ -159,7 +159,7 @@ Mimas
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Mimas
 		base prestige = 6100
 	}
@@ -169,7 +169,7 @@ Enceladus
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Enceladus
 		base prestige = 6200
 	}
@@ -179,7 +179,7 @@ Tethys
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Tethys
 		base prestige = 6300
 	}
@@ -189,7 +189,7 @@ Dione
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Dione
 		base prestige = 6400
 	}
@@ -199,7 +199,7 @@ Rhea
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Rhea
 		base prestige = 6500
 	}
@@ -209,7 +209,7 @@ Titan
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Titan
 		base prestige = 6600
 	}
@@ -219,7 +219,7 @@ Iapetus
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Iapetus
 		base prestige = 6700
 	}
@@ -230,7 +230,7 @@ Uranus
 	gas giant = true
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Uranus
 		base prestige = 7000
 	}
@@ -240,7 +240,7 @@ Miranda
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Miranda
 		base prestige = 7100
 	}
@@ -250,7 +250,7 @@ Ariel
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Ariel
 		base prestige = 7200
 	}
@@ -260,7 +260,7 @@ Umbriel
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Umbriel
 		base prestige = 7300
 	}
@@ -270,7 +270,7 @@ Titania
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Titania
 		base prestige = 7400
 	}
@@ -280,7 +280,7 @@ Oberon
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Oberon
 		base prestige = 7500
 	}
@@ -291,7 +291,7 @@ Neptune
 	gas giant = true
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Neptune
 		base prestige = 8000
 	}
@@ -301,7 +301,7 @@ Triton
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Triton
 		base prestige = 8100
 	}
@@ -312,7 +312,7 @@ Pluto
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Pluto
 		base prestige = 9000
 	}
@@ -322,7 +322,7 @@ Charon
 	gas giant = false
 	FinalFrontier
 	{
-		ribbon path = RealSolarSystem/Ribbons
+		ribbon path = RealSolarSystem/Ribbons/PluginData
 		ribbon group = Charon
 		base prestige = 9100
 	}
